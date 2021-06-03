@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad newes out of Kent: certified in a letter from Chattum : of the rising at Maydstone, Rochester, and other parts. Their resolutions concerning their joyning in armes. And their intentions to randezvouse at Blackheath. May. 24. 1648. Imprimatur, Gilb. Mabbott.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92924</idno><idno type="EEBO-CITATION">99863403</idno>
+  <idno type="VID">161727</idno>
+  <idno type="EEBO-PROQUEST">2240950549</idno>
+  
+            <idno type="STC">Wing S259</idno>
+            <idno type="STC">Thomason E443_41</idno>
+            <idno type="STC">ESTC R203450</idno>
+            <idno type="PROQUEST">99863403</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863403e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161727)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad newes out of Kent: certified in a letter from Chattum : of the rising at Maydstone, Rochester, and other parts. Their resolutions concerning their joyning in armes. And their intentions to randezvouse at Blackheath. May. 24. 1648. Imprimatur, Gilb. Mabbott.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161727:1"/>
+            <p>Sad Newes out of KENT: Certified in a LETTER from CHATTUM: Of the Rising at <hi>Maydstone, Rochester, and other parts.</hi>
+            </p>
+            <p>
+               <hi>Their Resolutions concerning their joyn<g ref="char:EOLhyphen"/>ing</hi> in ARMES.</p>
+            <p>AND Their Intentions to Randezvouse at <hi>Blackheath.</hi>
+            </p>
+            <p>
+               <hi>May.</hi> 24. 1648. Imprimatur, Gilb. Mabbott.</p>
+            <p>LONDON, Printed for <hi>H. Becke,</hi> and are to be sold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161727:2"/>
+            <pb n="1" facs="tcp:161727:2"/>
+            <head>SAD NEVVES OUT OF KENT.</head>
+            <head type="sub">Certified in a Letter from <hi>Chattum.</hi> OF THE Risings at <hi>Maydstone, Rochester, and other parts.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am sorry that I have no better newes to salute you with, then our sad divisions, by which we are much distracted, you may
+<pb n="2" facs="tcp:161727:3"/>make as slight of it as you will in <hi>London,</hi> but I can assure you, I feare the conclusion will carry sorrow enough.</p>
+            <p>The Petition is daily signed by additionall hands, the number is great that have joyned in it.</p>
+            <p>Since their seising of <hi>Rochester,</hi> and the Magazine, (which it was thought had been well over on the last Lords day at night, and that they would have been satisfied) they have increased, divers, both Gentlemen, Servants, Souldiers, and men of all sorts come in, and stand upon their defence</p>
+            <p>There are also divers others, gathered at <hi>Maydstone,</hi> and in severall other places of this County. And many of them are armed.</p>
+            <p>They say that they will have the King to come to <hi>London,</hi> and a Treaty. And the Ar<g ref="char:EOLhyphen"/>my of Sectaries (as they call them) disband<g ref="char:EOLhyphen"/>ed.</p>
+            <p>They have seized on a Packet of Letters, that came from the Committee of the Navy, and other Letters that were sent from the Vice-Admirall <hi>Rainsborough,</hi> to the Parlia<g ref="char:EOLhyphen"/>ment, caused them to be opened, and read
+<pb n="3" facs="tcp:161727:3"/>them, and delivered many of the Letters back again.</p>
+            <p>They stop divers passengers, and examine them, but let them goe again, without doing them hurt.</p>
+            <p>But for Souldiers they put all out of the Country, and permit none except only such as comply with them.</p>
+            <p>And they have prevailed so farre with the Horsemen of the Country, that they are al<g ref="char:EOLhyphen"/>most all the Troope gone in to joyne with them. And the Trained Bands are too cold to oppose them. And they will grow now (for ought I see) too numerous, if speedy course be not taken.</p>
+            <p>They intend their Randezvous, as is given out in these parts, next week at <hi>Black-heath,</hi> and the Committee know not what to doe, nor where to sit in safety.</p>
+            <p>Upon the rumour of Prince <hi>Charles</hi> his be<g ref="char:EOLhyphen"/>ing come to <hi>Sandwich,</hi> (which was at first be<g ref="char:EOLhyphen"/>leeved; and many labor still that it may car<g ref="char:EOLhyphen"/>ry credence) many came in out of a pretend<g ref="char:EOLhyphen"/>ed affection to him, and it was rumoured that he was come over to joyn with them to re<g ref="char:EOLhyphen"/>lease
+<pb n="4" facs="tcp:161727:4"/>lease the King and bring him safe to <hi>London.</hi>
+            </p>
+            <p>But we are since satisfied that it is not Prince <hi>Charles,</hi> but a poore ras<g ref="char:EOLhyphen"/>cally fellow, not fit for Gentlemens company, The Officer of the ship that caried the Prince away, was to see him, &amp; saying he was not the Prince, the fellow told the Mayor that hee came to kill him, and desired he might be secured, which was done accord<g ref="char:EOLhyphen"/>ingly, and others are committed also for saying that he is not the Prince.</p>
+            <p>A great deale of money is sent in by severall persons of the County to him, And he faires like a Prince, And still stands stifly in it, that he is Prince <hi>Charles.</hi> Hee came hither with poore cloathes, and a course dirty shirt, but he had other apparrell provided pre<g ref="char:EOLhyphen"/>sently.</p>
+            <pb n="5" facs="tcp:161727:4"/>
+            <p>If the Parliament send for him, I know not whether those who are risen in this County will let him goe, for (so farre as I can understand) he was appointed by the Royalists, to en<g ref="char:EOLhyphen"/>courage the Country, and joyne with them to disturbe the Parliament.</p>
+            <p>I pray God that this fire may bee quenched before the flames burne out so, that neither the Parliament nor the Country can be able to quench it,</p>
+            <p>Oh Sir, That God would move all mens hearts to peace, and that we could all learne to lay aside malice, and selfe-seeking, and sin, and seek to God for peace, and labour together in love for the glory of God, the propagation of the Gospell, the Amity of the King<g ref="char:EOLhyphen"/>domes, and the ends of the Treaties and the Solemne League and Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <pb n="6" facs="tcp:161727:5"/>
+            <p>These poore wretches (in this County) go on in an heady resolution, and they say they will have this and that, and they will because they will; but by what <hi>primum mobile</hi> they move God knows.</p>
+            <p>There are in <hi>Rochester,</hi> and the parts here<g ref="char:EOLhyphen"/>abouts (I doe verily beleeve) at the least a thousand that are risen, besides their interest in some Sea-men; and others at <hi>Maydstone,</hi> and other parts.</p>
+            <p>Here are abundance of Ordnance, and ma<g ref="char:EOLhyphen"/>ny ships, a great number of Armes, much powder in the Ships, the <hi>Soveraigne</hi> neere; if some speedy course be not taken herein, it may be repented when it is too late. God send us all well setled.</p>
+            <closer>
+               <dateline>
+                  <hi>Chattum</hi>
+                  <date>May 23. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
